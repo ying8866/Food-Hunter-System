@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Food Hunter System": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:52272;http://localhost:52273"
+    }
+  }
+}
